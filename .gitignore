@@ -1,6 +1,8 @@
-__pycache__
-old/
+__pycache__/
+build/
+dist/
 output/
 tecnical/
 
 *.exe
+*.spec
